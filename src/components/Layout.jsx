@@ -186,7 +186,7 @@ export default function LayoutComponent({children}) {
                             textAlign: 'center',
                         }}
                     >
-                        ©{new Date().getFullYear()} Created by Nurbek Malikov
+                        ©{new Date().getFullYear()} Created by Nurbek Malikov and Ardak Atagulov
                     </Footer>
                 </Layout>
             </Layout>
